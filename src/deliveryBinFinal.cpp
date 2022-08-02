@@ -352,6 +352,7 @@ void buscarProvAv()
 
     for (auto &&provincia : lstProvincia)
     {   
+        cont = 0;
 
         string prov1 = tolowerStr(prov);
 
